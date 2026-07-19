@@ -1,0 +1,11 @@
+[
+  {
+    "id": "NOT-001",
+    "timestamp": "2026-07-19T14:22:43.626Z",
+    "message": "URGENT: Red Emergency Button activated for Robert Johnson (PT-48291) in Room 304 B. Blood Group B+ required.",
+    "severity": "emergency",
+    "sender": "Nurse Clara Barton",
+    "patientId": "PT-48291",
+    "readBy": []
+  }
+]

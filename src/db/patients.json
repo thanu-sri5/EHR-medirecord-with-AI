@@ -1,0 +1,132 @@
+[
+  {
+    "id": "PT-48291",
+    "name": "Robert Johnson",
+    "age": 68,
+    "gender": "Male",
+    "phone": "+1 (555) 382-9102",
+    "bloodGroup": "B+",
+    "allergies": ["Aspirin", "Peanuts", "Contrast Dye"],
+    "medicines": ["Atorvastatin 40mg", "Clopidogrel 75mg", "Metoprolol 50mg"],
+    "medicalHistory": ["Hypertension", "Coronary Artery Disease", "Type 2 Diabetes"],
+    "treatments": ["Coronary Artery Bypass Graft (CABG) - June 2022", "Angioplasty - Nov 2019"],
+    "labReports": [
+      {
+        "id": "LAB-102",
+        "date": "2026-07-10",
+        "testName": "Lipid Panel",
+        "result": "Total Cholesterol: 245 mg/dL (High), LDL: 162 mg/dL (High)",
+        "status": "Abnormal"
+      },
+      {
+        "id": "LAB-103",
+        "date": "2026-07-15",
+        "testName": "Troponin T",
+        "result": "0.12 ng/mL (Elevated cardiac markers indicating mild ischemia)",
+        "status": "Critical"
+      }
+    ],
+    "emergencyContact": {
+      "name": "Martha Johnson",
+      "relation": "Spouse",
+      "phone": "+1 (555) 382-9105"
+    },
+    "lastUpdated": "2026-07-19T06:30:00Z",
+    "lastUpdatedBy": "Dr. Sarah Miller",
+    "isEmergencyCase": true
+  },
+  {
+    "id": "PT-92813",
+    "name": "Jane Smith",
+    "age": 32,
+    "gender": "Female",
+    "phone": "+1 (555) 928-1304",
+    "bloodGroup": "A-",
+    "allergies": ["Sulfa Drugs", "Amoxicillin"],
+    "medicines": ["Albuterol Inhaler (PRN)", "Fluticasone Nasal Spray"],
+    "medicalHistory": ["Asthma", "Allergic Rhinitis"],
+    "treatments": ["None"],
+    "labReports": [
+      {
+        "id": "LAB-201",
+        "date": "2026-05-12",
+        "testName": "Complete Blood Count (CBC)",
+        "result": "WBC: 6.8 K/uL (Normal), RBC: 4.2 M/uL (Normal), Platelets: 250 K/uL",
+        "status": "Normal"
+      }
+    ],
+    "emergencyContact": {
+      "name": "David Smith",
+      "relation": "Father",
+      "phone": "+1 (555) 928-1310"
+    },
+    "lastUpdated": "2026-07-18T14:22:00Z",
+    "lastUpdatedBy": "Dr. Alan Turing",
+    "isEmergencyCase": false
+  },
+  {
+    "id": "PT-10394",
+    "name": "Marcus Aurelius",
+    "age": 45,
+    "gender": "Male",
+    "phone": "+1 (555) 103-9483",
+    "bloodGroup": "O-",
+    "allergies": ["Penicillin", "NSAIDs"],
+    "medicines": ["Lisinopril 10mg", "Metformin 500mg"],
+    "medicalHistory": ["Hypertension", "Pre-diabetes", "Gastroesophageal Reflux Disease (GERD)"],
+    "treatments": ["Appendectomy - Feb 2020"],
+    "labReports": [
+      {
+        "id": "LAB-301",
+        "date": "2026-06-25",
+        "testName": "Hemoglobin A1c",
+        "result": "HbA1c: 6.1% (Prediabetic range)",
+        "status": "Abnormal"
+      },
+      {
+        "id": "LAB-302",
+        "date": "2026-06-25",
+        "testName": "Basic Metabolic Panel (BMP)",
+        "result": "Sodium: 139 mEq/L (Normal), Potassium: 4.1 mEq/L (Normal), Creatinine: 0.9 mg/dL",
+        "status": "Normal"
+      }
+    ],
+    "emergencyContact": {
+      "name": "Faustina Aurelius",
+      "relation": "Spouse",
+      "phone": "+1 (555) 103-9400"
+    },
+    "lastUpdated": "2026-07-15T09:15:00Z",
+    "lastUpdatedBy": "Nurse Clara Barton",
+    "isEmergencyCase": false
+  },
+  {
+    "id": "PT-77291",
+    "name": "Elena Rostova",
+    "age": 28,
+    "gender": "Female",
+    "phone": "+1 (555) 772-9182",
+    "bloodGroup": "AB+",
+    "allergies": ["None"],
+    "medicines": ["None"],
+    "medicalHistory": ["Acute Appendicitis (Resolved)"],
+    "treatments": ["Laparoscopic Appendectomy - Jan 2025"],
+    "labReports": [
+      {
+        "id": "LAB-401",
+        "date": "2026-07-18",
+        "testName": "Urinalysis",
+        "result": "Protein: Negative, Glucose: Negative, WBC: 0-2 /hpf (Normal)",
+        "status": "Normal"
+      }
+    ],
+    "emergencyContact": {
+      "name": "Pierre Rostov",
+      "relation": "Brother",
+      "phone": "+1 (555) 772-9100"
+    },
+    "lastUpdated": "2026-07-18T11:45:00Z",
+    "lastUpdatedBy": "Dr. Sarah Miller",
+    "isEmergencyCase": false
+  }
+]

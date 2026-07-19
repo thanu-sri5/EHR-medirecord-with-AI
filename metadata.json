@@ -1,0 +1,10 @@
+{
+  "name": "SmartCare EHR",
+  "description": "A modern Mobile Electronic Health Record (EHR) application featuring secure role-based login, search, patient management, instant emergency access, and an AI-powered Camera Scanner that parses prescriptions and reports.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
